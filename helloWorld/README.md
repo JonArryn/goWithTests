@@ -1,1 +1,0 @@
-This is just a repo I'm using to store my progress as I learn how to program in Go.
