@@ -22,6 +22,8 @@ type TestCase struct {
 }
 
 func TestWalk(t *testing.T) {
+	// create a slice of test cases
+	// in non-primitive types, add multiple values (arrays, slices, structs etc.)
 	cases := []TestCase{
 		{
 			"struct with one string field",
